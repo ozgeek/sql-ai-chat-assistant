@@ -6,7 +6,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "ts-node index.ts",
-    "dev": "ts-node-dev index.ts",
+    "dev": "ts-node-dev ollama.index.ts",
     "build": "tsc",
     "serve": "node dist/index.js"
   },

@@ -8,6 +8,12 @@ A command-line interface (CLI) chat assistant that helps users interact with Pos
 
 **If you use it on production, its on your own risk !**
 
+## Youtube Video
+
+[![](https://img.youtube.com/vi/ii1Xq0wVd-o/0.jpg)](https://www.youtube.com/watch?v=ii1Xq0wVd-o)
+
+[https://www.youtube.com/watch?v=ii1Xq0wVd-o&t=2s&pp=0gcJCUUJAYcqIYzv](https://www.youtube.com/watch?v=ii1Xq0wVd-o)
+
 ## Features
 
 - 🤖 Natural language interactions with your database
