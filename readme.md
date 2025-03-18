@@ -53,7 +53,7 @@ Heres a list of its capabilities that I tested :
 1. Clone the repository:
 
 ```bash
-git https://github.com/ozgeek/sql-ai-chat-assistant.git
+git clone https://github.com/ozgeek/sql-ai-chat-assistant.git
 cd sql-ai-chat-assistant
 ```
 
